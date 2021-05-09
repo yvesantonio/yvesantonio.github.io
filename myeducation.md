@@ -50,7 +50,7 @@ The MSc programme in Automation and Control Engineering aims at training special
 ##### Sao Paulo, Brazil
 ###### Mar 2011 - Mar 2016
 
-## Professional Certifications
+## Professional Certifications & Licences
 
 <img style="align: right;" src="{{ url }}/assets/img/ORD-ING-MILANO.jpg" height="100">
 
