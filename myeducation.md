@@ -52,11 +52,15 @@ The MSc programme in Automation and Control Engineering aims at training special
 
 ## Professional Certifications
 
+<img style="align: right;" src="{{ url }}/assets/img/ORD-ING-MILANO.jpg" height="100">
+
 ### Information Engineer
 #### Milan Order of Engineers
 ##### Milan, Italy
 ###### Feb 2021
 Registration Number A32533 - Section A - Information Sector
+
+<img style="align: right;" src="{{ url }}/assets/img/ORD-ING-MILANO.jpg" height="100">
 
 ### Industrial Engineer
 #### Milan Order of Engineers
