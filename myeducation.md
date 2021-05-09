@@ -77,7 +77,7 @@ Registration Number A32533 - Section A - Industrial Sector
 (r:29/30;l:30/30;s:24/30;w:22/30) 
 
 <img style="align: right;" src="{{ url }}/assets/img/CELI-3-02.png" height="100">
-<img style="align: right;" src="{{ url }}/assets/img/CELI-3-01.png" height="100">
+<img style="align: right;" src="{{ url }}/assets/img/CELI-3-01.png" height="110">
 
 ### CELI 3
 #### B2 CEFR
