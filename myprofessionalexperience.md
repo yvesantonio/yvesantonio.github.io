@@ -4,7 +4,7 @@ title: Professional Experience
 subtitle: Why you'd want to go on a date with me
 ---
 
-<img style="align: right;" src="{{ url }}/assets/img/DLT_01.png" height="70">
+<img style="align: right;" src="{{ url }}/assets/img/DLT-01.png" height="70">
 
 ### Strategy, Analytics and M&A | Consultant
 #### Deloitte Consulting S.r.l.
