@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Professional Experience
-subtitle: Why you'd want to go on a date with me
+subtitle:
 ---
 
 <img style="align: right;" src="{{ url }}/assets/img/DLT-01.jpg" height="70">
