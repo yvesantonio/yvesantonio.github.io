@@ -31,10 +31,10 @@ Extract business guidelines and data-driven insights from complex and integrated
 
 <img style="align: right;" src="{{ url }}/assets/img/logo_tohoku_01.png" height="90">
 
-### Data Scientist
-#### Advanced Institute for Materials Research | Postdoctoral Researcher
-##### Milan, Italy
-###### Nov 2016 - Nov 2019
+### Postdoctoral Researcher
+#### Advanced Institute for Materials Research | Tohoku University
+##### Sendai, Japan
+###### Nov 2019 - Jan 2020
 
 1. Development of simulation tools and data analytics in data assimilation, machine learning, High-Performance Computing and image processing of 3D/4D MRI scans for risk assessment in biomedical applications;
 2. Work was done in collaboration with the St. Luke's International Hospital/JST CREST and the Tohoku University;
