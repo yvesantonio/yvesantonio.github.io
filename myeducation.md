@@ -17,7 +17,7 @@ The Master of Science (Laurea Magistrale, LM-77) in Management of Innovation and
 The drivers of new business creation, the ability to identify business opportunities offered by the markets, the analysis of human, economic and financial resources needed to create and develop new projects represent some of the topics in the entrepreneurship field. Entrepreneurship and innovation are interwoven. Innovation is conceived in a broad sense, spanning from new knowledge generation to enter in new markets to the development of new products, processes and management approaches, based on innovative organizational solutions and competitive strategies.
 
 
-<img style="align: right;" src="{{ url }}/assets/img/logo_polimi_02.png" height="90">
+<img style="align: right;" src="{{ url }}/assets/img/logo_polimi_01.png" height="90">
 
 ### Ph.D. Mathematical Models and Methods in Engineering
 #### Politecnico di Milano
@@ -31,7 +31,7 @@ understanding of real-world phenomena as well as on the knowledge of
 mathematical tools for their description, Ph.D. candidates are expected to go
 thoroughly both into modelling and methodological aspects.
 
-<img style="align: right;" src="{{ url }}/assets/img/logo_polimi_02.png" height="90">
+<img style="align: right;" src="{{ url }}/assets/img/logo_polimi_01.png" height="90">
 
 ### M.Sc. Automation and Control Engineering
 #### Politecnico di Milano
@@ -43,6 +43,7 @@ The MSc programme in Automation and Control Engineering aims at training special
 * automation of vehicles (cars, motorcycles, high-performance trains, ...);
 * robotic systems, both employed in the industrial sector (automated production lines) and in special applications, such as autonomous agents that operate in contexts that are potentially dangerous to humans.
 
+<img style="align: right;" src="{{ url }}/assets/img/logo_usp_01.jpeg" height="100">
 <img style="align: right;" src="{{ url }}/assets/img/logo_poliusp_01.jpg" height="100">
 
 ### B.Eng. Electrical Engineering
