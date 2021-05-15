@@ -89,7 +89,7 @@ Teacher and laboratory instructor at undergraduate- and graduate-level courses i
 1. Open-innovation on products and services for new mobility models (autonomous, shared, electric, connected);
 2. Was a key player in combining mobile development, software development and hardware implementation for WeShare (mobility project in the context of car-sharing and smart cities industry);
 
-<img style="align: right;" src="{{ url }}/assets/img/logo_poliusp_01.png" height="90">
+<img style="align: right;" src="{{ url }}/assets/img/logo_poliusp_01.jpg" height="90">
 <img style="align: right;" src="{{ url }}/assets/img/logo_tpn_01.jpeg" height="90">
 
 ### Research Assistant
