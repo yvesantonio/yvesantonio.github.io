@@ -29,7 +29,7 @@ Manage data with an enterprise-wide view and several information sources, operat
 6. Insight-Driven Organization:
 Extract business guidelines and data-driven insights from complex and integrated systems.
 
-<img style="align: right;" src="{{ url }}/assets/img/logo_polimi_01.png" height="90">
+<img style="align: right;" src="{{ url }}/assets/img/logo_polimi_02.png" height="90">
 
 ### Data Scientist | Computational Scientist | Researcher
 #### MOX Modellistica e Calcolo Scientifico | Politecnico di Milano
