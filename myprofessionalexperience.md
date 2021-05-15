@@ -6,8 +6,8 @@ subtitle:
 
 <img style="align: right;" src="{{ url }}/assets/img/DLT-01.jpg" height="70">
 
-### Data Scientist | Consultant
-#### Deloitte Consulting S.r.l. | Strategy, Analytics and M&A
+### Strategy, Analytics and M&A | Consultant
+#### Deloitte Consulting S.r.l.
 ##### Milan, Italy
 ###### Since Feb 2020
 
@@ -29,28 +29,6 @@ Manage data with an enterprise-wide view and several information sources, operat
 6. Insight-Driven Organization:
 Extract business guidelines and data-driven insights from complex and integrated systems.
 
-<img style="align: right;" src="{{ url }}/assets/img/logo_polimi_01.png" height="90">
-
-### Data Scientist | Computational Scientist | Researcher
-#### MOX Modellistica e Calcolo Scientifico | Politecnico di Milano
-##### Milan, Italy
-###### Nov 2016 - Jan 2021
-
-1. Define requirements, design, implement, test, and deliver scientific computing, data science, statistics, and simulation software;
-2. Assist in the definition of research plans and grant/fund application;
-3. Prescribe implementation strategies and guidelines;
-4. Evaluate, clean, organize and manage the contribution of key developers;
-
-### Teaching Assistant
-#### Department of Mathematics | Politecnico di Milano
-##### Milan, Italy
-###### Nov 2016 - Jan 2021
-
-Teacher and laboratory instructor at undergraduate- and graduate-level courses in
-1. Numerical Analysis;
-2. Numerical Mathematics;
-3. Analytical and Numerical Methods in Engineering;
-
 <img style="align: right;" src="{{ url }}/assets/img/logo_tohoku_01.png" height="90">
 
 ### Postdoctoral Researcher
@@ -60,4 +38,3 @@ Teacher and laboratory instructor at undergraduate- and graduate-level courses i
 
 1. Development of simulation tools and data analytics in data assimilation, machine learning, High-Performance Computing and image processing of 3D/4D MRI scans for risk assessment in biomedical applications;
 2. Work was done in collaboration with the St. Luke's International Hospital/JST CREST and the Tohoku University;
-
