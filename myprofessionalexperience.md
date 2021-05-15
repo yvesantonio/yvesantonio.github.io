@@ -29,8 +29,7 @@ Manage data with an enterprise-wide view and several information sources, operat
 6. Insight-Driven Organization:
 Extract business guidelines and data-driven insights from complex and integrated systems.
 
-<img style="align: right;" src="{{ url }}/assets/img/logo_mox_01.png" height="90">
-<img style="align: right;" src="{{ url }}/assets/img/logo_polimi_02.png" height="90">
+<img style="align: right;" src="{{ url }}/assets/img/logo_polimi_01.png" height="90">
 
 ### Data Scientist | Computational Scientist | Researcher
 #### MOX Modeling and Scientific Computing | Politecnico di Milano
@@ -79,3 +78,25 @@ Teacher and laboratory instructor at undergraduate- and graduate-level courses i
 
 1. Development of predictive and data assimilation methods to analyze the correlation between fluid flow simulation, risk parameters and Coronary Artery Disease;
 2. Work was done in collaboration with the Department of Mathematics and Computer Science and the School of Medicine;
+
+<img style="align: right;" src="{{ url }}/assets/img/logo_enovia_01.png" height="90">
+
+### External Collaborator
+#### e-Novia S.r.l
+##### Milan, Italy
+###### Oct 2015 - Feb 2016
+
+1. Open-innovation on products and services for new mobility models (autonomous, shared, electric, connected);
+2. Was a key player in combining mobile development, software development and hardware implementation for WeShare (mobility project in the context of car-sharing and smart cities industry);
+
+<img style="align: right;" src="{{ url }}/assets/img/logo_poliusp_01.png" height="90">
+<img style="align: right;" src="{{ url }}/assets/img/logo_tpn_01.jpeg" height="90">
+
+### Research Assistant
+#### Numerical Offshore Tank | Polytechnic School | University of São Paulo
+##### Milan, Italy
+###### Oct 2015 - Feb 2016
+
+1. Open-innovation on products and services for new mobility models (autonomous, shared, electric, connected);
+2. Was a key player in combining mobile development, software development and hardware implementation for WeShare (mobility project in the context of car-sharing and smart cities industry);
+
